@@ -23,14 +23,14 @@ The primary challenge of this exercise was the need to take the data given and e
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- **What are two conclusions you can draw about the Outcomes based on Launch Date?**  
 That May, followed by summer time is the best time to launch a project. Winter time is the worst time to launch.
 
-- What can you conclude about the Outcomes based on Goals?
+- **What can you conclude about the Outcomes based on Goals?**  
 The higher the goal, the less likely the outcome will be success.
 
-- What are some limitations of this dataset?
+- **What are some limitations of this dataset?**  
 The size of our dataset with only plays is 1066, while this isn't bad more would be better. Additionally the data included doesn't include factors such as marketing and the social following a project had prior to being launched on Kickstarter. There could be major difference between a brand new team trying to launch a $50,000 project versus an experienced team which has previously kickstarted projects and is now attempting a larger project.
 
-- What are some other possible tables and/or graphs that we could create?
+- **What are some other possible tables and/or graphs that we could create?**  
 With this dataset the possibilities of different tables and graphs are innumerable. We could do this analysis on every different subcategory, we could dive deeper into origin country relating to launch dates, explore how being spotlighed or staff picked determined success, and many other things.
